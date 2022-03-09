@@ -1,0 +1,24 @@
+{
+  "name": "cea_api",
+  "version": "1.0.0",
+  "description": "API Rest para crear un Centro de Enseñanza Automovilístico público y accesible para todos.",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server --watch db.json",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Macorreag/cea_api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Macorreag/cea_api/issues"
+  },
+  "homepage": "https://github.com/Macorreag/cea_api#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}

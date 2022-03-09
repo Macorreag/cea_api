@@ -1,0 +1,44 @@
+{
+  "questions": [
+  {
+    "id": 1,
+    "categories": [
+      1
+    ], 
+    "authors": [
+      "macorreag"
+    ], 
+    "Title": "Los tipos de sanciones por infracciones al Código son",
+    "description": "",
+    "help_text": "",
+    "options": [
+      {
+        "text": "Amonestación",
+        "answer": "false",
+        "help_text": ""
+      },
+      {
+        "text": "Multas",
+        "answer": "false",
+        "help_text": ""
+      },
+      {
+        "text": "Suspención de la licencia de conducción",
+        "answer": "false",
+        "help_text": ""
+      },
+      {
+        "text": "Todas las anteriores",
+        "answer": "true",
+        "help_text": ""
+      }
+    ]
+  }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "body": "marco legal"
+    }
+  ]
+}
