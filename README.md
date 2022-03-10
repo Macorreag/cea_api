@@ -1,6 +1,8 @@
 # cea_api
 API Rest para crear un Centro de Enseñanza Automovilístico público y accesible para todos.
 
+EndPoint http://my-json-server.typicode.com/macorreag/cea_api/
+
 Tecnología json-server
 
 https://youtu.be/OAOCa2qYq2Y
