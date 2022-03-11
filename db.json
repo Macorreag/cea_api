@@ -11,16 +11,13 @@
       "Title": "Los tipos de sanciones por infracciones al Código son",
       "options": [
         {
-          "text": "Amonestación",
-          "answer": "false"
+          "text": "Amonestación"
         },
         {
-          "text": "Multas",
-          "answer": "false"
+          "text": "Multas"
         },
         {
-          "text": "Suspención de la licencia de conducción",
-          "answer": "false"
+          "text": "Suspención de la licencia de conducción"
         },
         {
           "text": "Todas las anteriores",
@@ -40,16 +37,13 @@
 
       "options": [
         {
-          "text": "El clásico",
-          "answer": "false"
+          "text": "El clásico"
         },
         {
-          "text": "El trial",
-          "answer": "false"
+          "text": "El trial"
         },
         {
-          "text": "El modular",
-          "answer": "false"
+          "text": "El modular"
         },
         {
           "text": "El integral",
@@ -69,20 +63,17 @@
 
       "options": [
         {
-          "text": "Adelante cerca de los colegios",
-          "answer": "false"
+          "text": "Adelante cerca de los colegios"
         },
         {
-          "text": "Conduzca un vehículo sin una placa",
-          "answer": "false"
+          "text": "Conduzca un vehículo sin una placa"
         },
         {
           "text": "No respete una luz roja o una señal de \"PARE\"",
           "answer": "true"
         },
         {
-          "text": "Desobedezca las órdenes de un Policía de transito",
-          "answer": "false"
+          "text": "Desobedezca las órdenes de un Policía de transito"
         }
       ]
     },
@@ -99,20 +90,17 @@
 
       "options": [
         {
-          "text": "8 años",
-          "answer": "false"
+          "text": "8 años"
         },
         {
           "text": "10 años",
           "answer": "true"
         },
         {
-          "text": "12 años",
-          "answer": "false"
+          "text": "12 años"
         },
         {
-          "text": "No, no hay prohibiciones al respecto",
-          "answer": "false"
+          "text": "No, no hay prohibiciones al respecto"
         }
       ]
     },
@@ -129,20 +117,16 @@
 
       "options": [
         {
-          "text": "Descansar lo suficiente, antes de iniciar el viaje",
-          "answer": "false"
+          "text": "Descansar lo suficiente, antes de iniciar el viaje"
         },
         {
-          "text": "No ingerir medicamentos que produzcan somnolemsia y pérdida de reflejos",
-          "answer": "false"
+          "text": "No ingerir medicamentos que produzcan somnolemsia y pérdida de reflejos"
         },
         {
-          "text": "Evitar la conducción bajo los efectos del alcohol, drogas, fármacos u otras sustancias que puedan disminuir las facultades del conductor",
-          "answer": "false"
+          "text": "Evitar la conducción bajo los efectos del alcohol, drogas, fármacos u otras sustancias que puedan disminuir las facultades del conductor"
         },
         {
-          "text": "No consultar con el médico, si necesita conducir con gafas",
-          "answer": "false"
+          "text": "No consultar con el médico, si necesita conducir con gafas"
         }
       ]
     },
@@ -159,12 +143,10 @@
 
       "options": [
         {
-          "text": "60 km",
-          "answer": "false"
+          "text": "60 km"
         },
         {
-          "text": "80 km",
-          "answer": "false"
+          "text": "80 km"
         },
         {
           "text": "30 km",
@@ -185,16 +167,14 @@
 
       "options": [
         {
-          "text": "40 km",
-          "answer": "false"
+          "text": "40 km"
         },
         {
           "text": "60 km",
           "answer": "true"
         },
         {
-          "text": "30 km",
-          "answer": "false"
+          "text": "30 km"
         }
       ]
     },
@@ -219,8 +199,7 @@
           "answer": "true"
         },
         {
-          "text": "30 mts",
-          "answer": "false"
+          "text": "30 mts"
         }
       ]
     },
@@ -237,12 +216,10 @@
 
       "options": [
         {
-          "text": "Andenes y zonas verdes",
-          "answer": "false"
+          "text": "Andenes y zonas verdes"
         },
         {
-          "text": "En autopistas, vias arterías o zonas de seguridad",
-          "answer": "false"
+          "text": "En autopistas, vias arterías o zonas de seguridad"
         },
         {
           "text": "Todas las anteriores",
@@ -263,12 +240,10 @@
 
       "options": [
         {
-          "text": "Tener neumáticos en buen estado",
-          "answer": "false"
+          "text": "Tener neumáticos en buen estado"
         },
         {
-          "text": "Conducir a baja velocidad",
-          "answer": "false"
+          "text": "Conducir a baja velocidad"
         },
         {
           "text": "Mantener la distancia de seguridad",
@@ -289,20 +264,17 @@
 
       "options": [
         {
-          "text": "Aumentar la velocidad",
-          "answer": "false"
+          "text": "Aumentar la velocidad"
         },
         {
-          "text": "Hacer caso omiso de ella",
-          "answer": "false"
+          "text": "Hacer caso omiso de ella"
         },
         {
           "text": "Disminuir la velocidad y tener más precaución",
           "answer": "true"
         },
         {
-          "text": "Ninguna de las anteriores",
-          "answer": "false"
+          "text": "Ninguna de las anteriores"
         }
 
       ]
@@ -320,20 +292,17 @@
 
       "options": [
         {
-          "text": "El motociclista",
-          "answer": "false"
+          "text": "El motociclista"
         },
         {
           "text": "El peatón",
           "answer": "true"
         },
         {
-          "text": "El ciclista",
-          "answer": "false"
+          "text": "El ciclista"
         },
         {
-          "text": "El pasajero",
-          "answer": "false"
+          "text": "El pasajero"
         }
       ]
     },
@@ -350,16 +319,13 @@
 
       "options": [
         {
-          "text": "Disminuye la velocidad",
-          "answer": "false"
+          "text": "Disminuye la velocidad"
         },
         {
-          "text": "Aumenta la distancia de seguridad",
-          "answer": "false"
+          "text": "Aumenta la distancia de seguridad"
         },
         {
-          "text": "Esta atento a su entorno",
-          "answer": "false"
+          "text": "Esta atento a su entorno"
         },
         {
           "text": "Todas las anteriores",
@@ -380,12 +346,10 @@
 
       "options": [
         {
-          "text": "tener a la mano los documentos del vehículo",
-          "answer": "false"
+          "text": "tener a la mano los documentos del vehículo"
         },
         {
-          "text": "Verificar el estado de salud",
-          "answer": "false"
+          "text": "Verificar el estado de salud"
         },
         {
           "text": "Mantener la calma",
@@ -413,8 +377,7 @@
           "answer": "true"
         },
         {
-          "text": "Falso",
-          "answer": "false"
+          "text": "Falso"
         }
       ]
     },
@@ -431,16 +394,13 @@
 
       "options": [
         {
-          "text": "Habla por celular",
-          "answer": "false"
+          "text": "Habla por celular"
         },
         {
-          "text": "Conduce en estado de embriaguez",
-          "answer": "false"
+          "text": "Conduce en estado de embriaguez"
         },
         {
-          "text": "Hace caso omiso de las señales de tránsito",
-          "answer": "false"
+          "text": "Hace caso omiso de las señales de tránsito"
         },
         {
           "text": "Conoce las normas de transito y las respeta",
@@ -461,20 +421,17 @@
 
       "options": [
         {
-          "text": "Seamos buenos conductores",
-          "answer": "false"
+          "text": "Seamos buenos conductores"
         },
         {
-          "text": "Se disminuyan los accidentes",
-          "answer": "false"
+          "text": "Se disminuyan los accidentes"
         },
         {
           "text": "Aumentemos los accidentes",
           "answer": "true"
         },
         {
-          "text": "Seamos buenos peatones",
-          "answer": "false"
+          "text": "Seamos buenos peatones"
         }
       ]
     }
