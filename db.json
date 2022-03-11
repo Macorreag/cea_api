@@ -1,44 +1,577 @@
 {
   "questions": [
-  {
-    "id": 1,
-    "categories": [
-      1
-    ], 
-    "authors": [
-      "macorreag"
-    ], 
-    "Title": "Los tipos de sanciones por infracciones al Código son",
-    "description": "",
-    "help_text": "",
-    "options": [
-      {
-        "text": "Amonestación",
-        "answer": "false",
-        "help_text": ""
-      },
-      {
-        "text": "Multas",
-        "answer": "false",
-        "help_text": ""
-      },
-      {
-        "text": "Suspención de la licencia de conducción",
-        "answer": "false",
-        "help_text": ""
-      },
-      {
-        "text": "Todas las anteriores",
-        "answer": "true",
-        "help_text": ""
-      }
-    ]
-  }
+    {
+      "id": 1,
+      "categories": [
+        1
+      ], 
+      "authors": [
+        "macorreag"
+      ], 
+      "Title": "Los tipos de sanciones por infracciones al Código son",
+      "description": "",
+      "help_text": "",
+      "options": [
+        {
+          "text": "Amonestación",
+          "answer": "false",
+          "help_text": ""
+        },
+        {
+          "text": "Multas",
+          "answer": "false",
+          "help_text": ""
+        },
+        {
+          "text": "Suspención de la licencia de conducción",
+          "answer": "false",
+          "help_text": ""
+        },
+        {
+          "text": "Todas las anteriores",
+          "answer": "true",
+          "help_text": ""
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "categories": [
+        1,2
+      ],
+      "authors": [
+        "macorreag"
+      ],
+      "Title": "El casco que genera mayor protección de la cabeza en un motociclista, en caso de algún accidente es:",
+      "description": "",
+      "help_text": "",
+      "options": [
+        {
+          "text": "El clásico",
+          "answer": "false",
+          "help_text": ""
+        },
+        {
+          "text": "El trial",
+          "answer": "false",
+          "help_text": ""
+        },
+        {
+          "text": "El modular",
+          "answer": "false",
+          "help_text": ""
+        },
+        {
+          "text": "El integral",
+          "answer": "true",
+          "help_text": ""
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "categories": [
+        1,2
+      ],
+      "authors": [
+        "macorreag"
+      ],
+      "Title": "Será sancionado con multa equivalente a treinta (30) SMLDV el conductor que",
+      "description": "",
+      "help_text": "",
+      "options": [
+        {
+          "text": "Adelante cerca de los colegios",
+          "answer": "false",
+          "help_text": ""
+        },
+        {
+          "text": "Conduzca un vehículo sin una placa",
+          "answer": "false",
+          "help_text": ""
+        },
+        {
+          "text": "No respete una luz roja o una señal de \"PARE\"",
+          "answer": "true",
+          "help_text": ""
+        },
+        {
+          "text": "Desobedezca las órdenes de un Policía de transito",
+          "answer": "false",
+          "help_text": ""
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "categories": [
+        1,
+        2
+      ],
+      "authors": [
+        "macorreag"
+      ],
+      "Title": "En un automóvil está prohibido que en los asientos delanteros viajen niños menores de",
+      "description": "",
+      "help_text": "",
+      "options": [
+        {
+          "text": "8 años",
+          "answer": "false",
+          "help_text": ""
+        },
+        {
+          "text": "10 años",
+          "answer": "true",
+          "help_text": ""
+        },
+        {
+          "text": "12 años",
+          "answer": "false",
+          "help_text": ""
+        },
+        {
+          "text": "No, no hay prohibiciones al respecto",
+          "answer": "false",
+          "help_text": ""
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "categories": [
+        1,
+        2
+      ],
+      "authors": [
+        "macorreag"
+      ],
+      "Title": "El conductor antes de iniciar un viaje debe cumplir con las normas de salud ocupacional, excepto",
+      "description": "",
+      "help_text": "",
+      "options": [
+        {
+          "text": "Descansar lo suficiente, antes de iniciar el viaje",
+          "answer": "false",
+          "help_text": ""
+        },
+        {
+          "text": "No ingerir medicamentos que produzcan somnolemsia y pérdida de reflejos",
+          "answer": "false",
+          "help_text": ""
+        },
+        {
+          "text": "Evitar la conducción bajo los efectos del alcohol, drogas, fármacos u otras sustancias que puedan disminuir las facultades del conductor",
+          "answer": "false",
+          "help_text": ""
+        },
+        {
+          "text": "No consultar con el médico, si necesita conducir con gafas",
+          "answer": "false",
+          "help_text": ""
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "categories": [
+        1,
+        2
+      ],
+      "authors": [
+        "macorreag"
+      ],
+      "Title": "La máxima velocidad en zona escolar, residencial para servicio particular y público es",
+      "description": "",
+      "help_text": "",
+      "options": [
+        {
+          "text": "60 km",
+          "answer": "false",
+          "help_text": ""
+        },
+        {
+          "text": "80 km",
+          "answer": "false",
+          "help_text": ""
+        },
+        {
+          "text": "30 km",
+          "answer": "true",
+          "help_text": ""
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "categories": [
+        1,
+        2
+      ],
+      "authors": [
+        "macorreag"
+      ],
+      "Title": "La máxima velocidad en zona urbana, para servicio particular y público es",
+      "description": "",
+      "help_text": "",
+      "options": [
+        {
+          "text": "40 km",
+          "answer": "false",
+          "help_text": ""
+        },
+        {
+          "text": "60 km",
+          "answer": "true",
+          "help_text": ""
+        },
+        {
+          "text": "30 km",
+          "answer": "false",
+          "help_text": ""
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "categories": [
+        1,
+        2
+      ],
+      "authors": [
+        "macorreag"
+      ],
+      "Title": "La distancia de seguridad que debe haber entre vehículos que circulan a 50 km es",
+      "description": "",
+      "help_text": "",
+      "options": [
+        {
+          "text": "20 mts",
+          "answer": "true",
+          "help_text": ""
+        },
+        {
+          "text": "5 mts",
+          "answer": "true",
+          "help_text": ""
+        },
+        {
+          "text": "30 mts",
+          "answer": "false",
+          "help_text": ""
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "categories": [
+        1,
+        2
+      ],
+      "authors": [
+        "macorreag"
+      ],
+      "Title": "Es prohibido parquear en",
+      "description": "",
+      "help_text": "",
+      "options": [
+        {
+          "text": "Andenes y zonas verdes",
+          "answer": "false",
+          "help_text": ""
+        },
+        {
+          "text": "En autopistas, vias arterías o zonas de seguridad",
+          "answer": "false",
+          "help_text": ""
+        },
+        {
+          "text": "Todas las anteriores",
+          "answer": "true",
+          "help_text": ""
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "categories": [
+        1,
+        2
+      ],
+      "authors": [
+        "macorreag"
+      ],
+      "Title": "Lo más **importante** para evitar colisionar con el vehiculo que va adelante es",
+      "description": "",
+      "help_text": "",
+      "options": [
+        {
+          "text": "Tener neumáticos en buen estado",
+          "answer": "false",
+          "help_text": ""
+        },
+        {
+          "text": "Conducir a baja velocidad",
+          "answer": "false",
+          "help_text": ""
+        },
+        {
+          "text": "Mantener la distancia de seguridad",
+          "answer": "true",
+          "help_text": ""
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "categories": [
+        1,
+        2
+      ],
+      "authors": [
+        "macorreag"
+      ],
+      "Title": "Uno de los principios del comportamiento vial es la previsión ¿si en la vía observo una señal de peligro de colisión lo que debo hacer es?",
+      "description": "",
+      "help_text": "",
+      "options": [
+        {
+          "text": "Aumentar la velocidad",
+          "answer": "false",
+          "help_text": ""
+        },
+        {
+          "text": "Hacer caso omiso de ella",
+          "answer": "false",
+          "help_text": ""
+        },
+        {
+          "text": "Disminuir la velocidad y tener más precaución",
+          "answer": "true",
+          "help_text": ""
+        },
+        {
+          "text": "Ninguna de las anteriores",
+          "answer": "false",
+          "help_text": ""
+        }
+
+      ]
+    },
+    {
+      "id": 10,
+      "categories": [
+        1,
+        2
+      ],
+      "authors": [
+        "macorreag"
+      ],
+      "Title": "En la vía tiene la prioridad en primer lugar",
+      "description": "",
+      "help_text": "",
+      "options": [
+        {
+          "text": "El motociclista",
+          "answer": "false",
+          "help_text": ""
+        },
+        {
+          "text": "El peatón",
+          "answer": "true",
+          "help_text": ""
+        },
+        {
+          "text": "El ciclista",
+          "answer": "false",
+          "help_text": ""
+        },
+        {
+          "text": "El pasajero",
+          "answer": "false",
+          "help_text": ""
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "categories": [
+        1,
+        2
+      ],
+      "authors": [
+        "macorreag"
+      ],
+      "Title": "Si la carretera está en mal estado ¿usted que medidas tomaría?",
+      "description": "",
+      "help_text": "",
+      "options": [
+        {
+          "text": "Disminuye la velocidad",
+          "answer": "false",
+          "help_text": ""
+        },
+        {
+          "text": "Aumenta la distancia de seguridad",
+          "answer": "false",
+          "help_text": ""
+        },
+        {
+          "text": "Esta atento a su entorno",
+          "answer": "false",
+          "help_text": ""
+        },
+        {
+          "text": "Todas las anteriores",
+          "answer": "true",
+          "help_text": ""
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "categories": [
+        1,
+        2
+      ],
+      "authors": [
+        "macorreag"
+      ],
+      "Title": "¿En caso de un accidente lo primero es?",
+      "description": "",
+      "help_text": "",
+      "options": [
+        {
+          "text": "tener a la mano los documentos del vehículo",
+          "answer": "false",
+          "help_text": ""
+        },
+        {
+          "text": "Verificar el estado de salud",
+          "answer": "false",
+          "help_text": ""
+        },
+        {
+          "text": "Mantener la calma",
+          "answer": "true",
+          "help_text": ""
+        },
+        {
+          "text": "Ninguna de las anteriores",
+          "answer": "true",
+          "help_text": ""
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "categories": [
+        1,
+        2
+      ],
+      "authors": [
+        "macorreag"
+      ],
+      "Title": "Hablar por celular, aún con manos libres, incrementa el riesgo de tener un accidente",
+      "description": "",
+      "help_text": "",
+      "options": [
+        {
+          "text": "Verdadero",
+          "answer": "true",
+          "help_text": ""
+        },
+        {
+          "text": "Falso",
+          "answer": "false",
+          "help_text": ""
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "categories": [
+        1,
+        2
+      ],
+      "authors": [
+        "macorreag"
+      ],
+      "Title": "El buen conductor es aquel que",
+      "description": "",
+      "help_text": "",
+      "options": [
+        {
+          "text": "Habla por celular",
+          "answer": "false",
+          "help_text": ""
+        },
+        {
+          "text": "Conduce en estado de embriaguez",
+          "answer": "false",
+          "help_text": ""
+        },
+        {
+          "text": "Hace caso omiso de las señales de tránsito",
+          "answer": "false",
+          "help_text": ""
+        },
+        {
+          "text": "Conoce las normas de transito y las respeta",
+          "answer": "true",
+          "help_text": ""
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "categories": [
+        1,
+        2
+      ],
+      "authors": [
+        "macorreag"
+      ],
+      "Title": "El desconocimiento y violación de las normas de tránsito hace que",
+      "description": "",
+      "help_text": "",
+      "options": [
+        {
+          "text": "Seamos buenos conductores",
+          "answer": "false",
+          "help_text": ""
+        },
+        {
+          "text": "Se disminuyan los accidentes",
+          "answer": "false",
+          "help_text": ""
+        },
+        {
+          "text": "Aumentemos los accidentes",
+          "answer": "true",
+          "help_text": ""
+        },
+        {
+          "text": "Seamos buenos peatones",
+          "answer": "false",
+          "help_text": ""
+        }
+      ]
+    }
+
+    
+
   ],
   "categories": [
     {
       "id": 1,
       "body": "marco legal"
+    },
+    {
+      "id": 2,
+      "body": "B1",
+      "description": "Examen de conducción moto"
     }
+
   ]
 }
