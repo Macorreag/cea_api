@@ -24,6 +24,9 @@ Un examen de conducción usualmente tiene 40 preguntas y se pasa con un 90% es d
 
   # API Rest
   
+  # Limitaciones
+  El archivo db.json no puede superar los 10kb
+
   # Preguntas
 
   Se colocan en el archivo _db.json_
@@ -40,12 +43,11 @@ Un examen de conducción usualmente tiene 40 preguntas y se pasa con un 90% es d
 			"options": [
 				{
 					"text": "Amonestación",
-					"answer": "false", /*Permite verificar si la opcion es la correcta*/
+					"answer": "false", /*Permite verificar si la opcion es la correcta si este parametro no se envía se considera que esta no corresponde a la solucion es decir estara en falso, pero si se envia uno en true se considera prergunat de una opción y si se envian multiples si se considera de opcion multiple*/
 					"help_text": "", /*Permite explicar porque es correcta ó incorrecta.*/
 				},
 				{
 					"text": "Multas",
-					"answer": "false",
 					"help_text": ""
 				},
 				{
