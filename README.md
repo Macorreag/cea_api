@@ -12,6 +12,16 @@ Despliegue [https://my-json-server.typicode.com/](https://my-json-server.typicod
 # Examenes
 Un examen de conducción usualmente tiene 40 preguntas y se pasa con un 90% es decir 36 respuestas correctas, el tiempo permitido es de 1 hora lo nque quiere decir que tiene 1:30 por pregunta
 
+## Dificultades de las preguntas
+
+ - **Alta:** Cada pregunta equivale a 3.75%
+ - **Media:** Cada pregunta equivale a 2.5%
+ - **Baje:** Cada pregunta equivale a 1.25%
+
+## Resultados Examenes
+ - **Aprobado:** Supero el examen con mas del 90% de las las respuestas correctas.
+ - **Reprobado:** Su puntaje es inferior al 90%.
+
 
 
 ## Ejemplo de una pregunta
